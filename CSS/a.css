@@ -1,0 +1,51 @@
+                    body {
+                        background-image: url(https://wallpaperaccess.com/full/934072.jpg);
+                        font-family: Arial, Helvetica, sans-serif;
+                        background-size: cover;
+                        background-repeat: no-repeat;
+                        background-position-x: 60%;
+                    }
+                    
+                    .navbar {
+                        width: 100%;
+                        background-color: #555;
+                        overflow: auto;
+                    }
+                    
+                    .navbar a {
+                        float: right;
+                        padding: 12px;
+                        color: white;
+                        text-decoration: none;
+                        font-size: 17px;
+                    }
+                    
+                    .navbar a:hover {
+                        background-color: rgb(241, 101, 8);
+                    }
+                    
+                    .active {
+                        background-color: #9c3f09;
+                    }
+                    
+                    .navbar a {
+                        float: right;
+                        display: block;
+                    }
+                    
+                    footer {
+                        float: right;
+                        color: white;
+                    }
+                    
+                    div.polaroid {
+                        width: 40%;
+                        background-color: white;
+                        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+                        margin-bottom: 25px;
+                    }
+                    
+                    div.container {
+                        text-align: center;
+                        padding: 10px 20px;
+                    }
